@@ -10,4 +10,5 @@ This is my first fork of a library, apologies for any mistakes!
 
 - Used pointer to pass desired I2C perhipheral interface to the library.
 - I2C setup in example sketch using arduino::MbedI2C i2c0(SDA0,SCL0); allowing for multiple I2C interfaces and any compatible pins to be used.
+- Used convention to add underscore infront of private variables such as _i2c and _addr
 - Removed ambiguity between setAllBrightness(const uint8_t dutyCycle) and setAllBrightness(const uint8_t dutyCycles[]) by changing second function name to setAllBrightnessArray
