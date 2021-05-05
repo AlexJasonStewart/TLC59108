@@ -1,6 +1,7 @@
 # TLC59108 Library for Arduino Core RP2040 (Raspberry Pi Pico)
 
-This library is a fork of Chrylis's original Arduino library. It has been modified to work with the new Mbed based ArudinoCore for RP2040.
+This library is a fork of Chrylis's original Arduino library https://github.com/chrylis/tlc59108
+It has been modified to work with the new Mbed based ArudinoCore for RP2040.
 
 Has been tested using a Raspberry Pi Pico and Arduino IDE 2.0.0-beta.5.
 
